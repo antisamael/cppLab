@@ -35,3 +35,9 @@
 *.code-workspace
 .vscode
 hello/hello
+
+# CMake
+CMakeFiles/
+*.cmake
+CMakeCache.txt
+test_callback/main
